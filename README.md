@@ -13,8 +13,8 @@ A base de dados a seguir é formada por um conjunto de imagens de objetos encont
     • 3 repetições para cada situação acima
 
   O total de imagens coletadas foram de 1080, sendo 270 em cada variação de iluminação. Para essa tarefa foi utilizado uma única câmera, presente no smartfone Xiaomi MI A3, esta possui 48 megapixels, abertura de 1.8 e foco tipo PDAF (Phase Detection AutoFocus). Todas as imagens foram capturadas em resolução FullHD (1920x1080px), apesar da possibilidade de realizar a captura das imagens em resoluções consideravelmente superiores, essa foi determinada por alguns motivos, permitiu a homogeneidade na base de dados e o tamanho dos arquivos puderam ser reduzidos sem comprometer a qualidade necessária para as próximas etapas.
-	No nível de software, foi utilizado a aplicação Open Camera em conjunto com o sistema Android 10. A escolha desse aplicativo se fez dado que o mesmo é gratuito e permite um leque de configurações superior ao aplicativo de fotografia nativo do aparelho.
-	Além da base de dados não estruturada (imagens), uma base de dados estruturada foi criada com as informações e metadados de cada imagem, permitindo assim a exploração e análise por completa das informações. Duas tabelas foram criadas, a primeira, Tabela Global, consiste nas informações necessárias para endereçar cada imagem, a segunda, Tabela Detalhada, contem todas as características de cada imagem.  
+  No nível de software, foi utilizado a aplicação Open Camera em conjunto com o sistema Android 10. A escolha desse aplicativo se fez dado que o mesmo é gratuito e permite um leque de configurações superior ao aplicativo de fotografia nativo do aparelho.
+  Além da base de dados não estruturada (imagens), uma base de dados estruturada foi criada com as informações e metadados de cada imagem, permitindo assim a exploração e análise por completa das informações. Duas tabelas foram criadas, a primeira, Tabela Global, consiste nas informações necessárias para endereçar cada imagem, a segunda, Tabela Detalhada, contem todas as características de cada imagem.  
 
 ## Link para o banco de imagens
 
