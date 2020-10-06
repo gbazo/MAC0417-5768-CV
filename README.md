@@ -28,4 +28,4 @@ https://drive.google.com/file/d/13yqDY7XBFOEQbQSSim4BWnlU3M3Vr6ag/view?usp=shari
 
 ## Link para o notebook
 
- 
+https://drive.google.com/file/d/10FrcNRqeN8ry-kDXX-AxzXtKnBkDdX2F/view?usp=sharing
