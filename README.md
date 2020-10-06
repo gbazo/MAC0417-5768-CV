@@ -24,7 +24,7 @@ https://drive.google.com/drive/folders/1dt4AzHLzmXjKoj1Knm4JLJ1qDdoQFuBo?usp=sha
 
 ## Link para os metadados
 
-
+https://drive.google.com/file/d/13yqDY7XBFOEQbQSSim4BWnlU3M3Vr6ag/view?usp=sharing
 
 ## Link para o notebook
 
