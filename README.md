@@ -24,4 +24,4 @@ https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP2_1_Gabrie
 
 ## Link para o notebook EP2_2
 
-
+Parte 2 não finalizada.
