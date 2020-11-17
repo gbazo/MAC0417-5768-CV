@@ -20,7 +20,7 @@ https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP1_GabrielB
 ## Link para o notebook EP2_1
 
 https://drive.google.com/file/d/167t742puZs6a0jpwMEoS_aTk9JFW98tv/view?usp=sharing (file)
-https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP2_1_GabrielBazo.ipynb
+https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP2_1_GabrielBazo.ipynb (online)
 
 ## Link para o notebook EP2_2
 
