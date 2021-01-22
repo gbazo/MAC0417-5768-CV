@@ -6,23 +6,24 @@ NUSP: 10277231
 
 ## Link para o banco de imagens
 
-https://drive.google.com/drive/folders/1dt4AzHLzmXjKoj1Knm4JLJ1qDdoQFuBo?usp=sharing
+https://drive.google.com/drive/u/2/folders/1gIPJ6pSHb_MJU87CrQYfPtb70KO8Erkf
 
 ## Link para os metadados
 
-https://drive.google.com/file/d/13yqDY7XBFOEQbQSSim4BWnlU3M3Vr6ag/view?usp=sharing
+https://drive.google.com/file/d/1rSLSiVE9YMDRszBY7_WAEPwDHuihxTIf/view?usp=sharing
 
-## Link para o notebook EP1
+## Link para o notebook EP1 - Captura das Imagens
 
-https://drive.google.com/file/d/10FrcNRqeN8ry-kDXX-AxzXtKnBkDdX2F/view?usp=sharing (file)
 https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP1_GabrielBazo.ipynb (online)
 
-## Link para o notebook EP2_1
+## Link para o notebook EP2_1 - Data Augmentation
 
-https://drive.google.com/file/d/167t742puZs6a0jpwMEoS_aTk9JFW98tv/view?usp=sharing (file)
 https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP2_1_GabrielBazo.ipynb (online)
 
-## Link para o notebook EP3_1
+## Link para o notebook EP3_1 - Segmentação
 
-## Link para o notebook EP3_2
+https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP3/EP3.1_GABRIEL.ipynb (online)
 
+## Link para o notebook EP3_2 - Classificação
+
+https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP3/EP3.2_Gabriel.ipynb (online)
