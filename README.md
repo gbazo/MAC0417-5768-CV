@@ -28,5 +28,6 @@ https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP3/EP3.1_GA
 
 https://nbviewer.jupyter.org/github/gbazo/MAC0417-5768-CV/blob/main/EP3/EP3.2_Gabriel.ipynb (online)
 
-* O drive com as imagens foi atualizado e organizado de acordo com o pipeline do EP3
+*  O drive com as imagens foi atualizado e organizado de acordo com o pipeline do EP3
+
 ** Todos os notebook's estão disponíveis para download nesse GitHub 
